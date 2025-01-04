@@ -7,7 +7,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/Josue-Merino/Multi-Step-Form">
       Solution
     </a>
   </h3>
@@ -21,7 +21,7 @@
 - [Built with](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 <!-- OVERVIEW -->
 
